@@ -7,7 +7,7 @@
 <h3>GIF do Projeto funcionando:</h3>
 
 
-![]()
+![](https://github.com/ThiagoArchete/Moon-CSS-Animation/blob/main/gif2/20240525_202411.gif)
 
 <h2>Link do Projeto realizado na plataforma CODEPEN:</h2>
 
